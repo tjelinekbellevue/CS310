@@ -1,6 +1,6 @@
 // Author: Timothy Jelinek
 // Date: 4/11/2024
-// Description: This program adds 2 to i as long as i is not bigger than 30.
+// Description: This program has two user defined functions, one that adds and one that subtracts, two numbers.  There are two errors in here to check for.
 
 #include <iostream>
 #include <conio.h> 
@@ -11,7 +11,7 @@ in add(int a, int b) {
     return (a + b);
 }
 
-// Thi sis a function to subtract two numbers 
+// This is a function to subtract two numbers 
 int subtract(int a, int b) {
     return (a - b); 
 }
